@@ -3,7 +3,7 @@
 Oletus on että oppilaat eivät juuri ole käyttäneet gittiä mutta haluavat oppia käyttämää sitä. Harjoitusten tavoitteena on että opitaan perus git workflow monikehittäjäympäristössä sekä siihen tarvittavat työkalut (koodieditori, pääte, git, github) käytännön tehtävän kautta. Lopuksi kerrataan opitut asiat ja annetaan läksy.
 
 
-Täällä ollaan ja syödään pullaa
+Täällä ollaan ja syödään banaania.
 
 ## Ennakkotehtävä
 
@@ -39,6 +39,9 @@ Lorem ipsum dolor
 - [Reaktor Git perusteet "ei koodaajille"](https://extra.reaktor.fi/pages/viewpage.action?pageId=50922108)
 - [Code Academy: Learn Git](https://www.codecademy.com/learn/learn-git) - Samoja asioita ja ehkä vähän lisää jota tässä koulutuksessa käytiin läpi
 - [GitHub Guides](https://guides.github.com/) - Erityisesti kahteen ensimmäiseen kannattaa tutustua
+
+
+Nyt tarvitsee pikku opiskelija BANAANIII!!!
 
 ls
 
