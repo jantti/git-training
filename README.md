@@ -28,7 +28,6 @@ Täällä ollaan ja syödään banaania.
 “Ryhmätyöt ovat hyväksi ihmiselle.”
 
 
-#### Visujen tunkkaus
 - Muokataan olemassa olevaa palvelun kottareita
 
 Lorem ipsum dolor
