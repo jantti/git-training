@@ -23,6 +23,9 @@ Oletus on että oppilaat eivät juuri ole käyttäneet gittiä mutta haluavat op
 - Jakaudutaan pienryhmiin ja tutustutaan ryhmätyöskentelyn saloihin: `push`, `pull`, `rebase`, `merge` ja `fetch`
 - Tehdään muutama harjoitusten
 
+“Ryhmätyöt ovat hyväksi ihmiselle.”
+
+
 #### Visujen tunkkaus
 - Muokataan olemassa olevaa palvelun kottareita
 
