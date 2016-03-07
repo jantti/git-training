@@ -14,10 +14,10 @@ Täällä ollaan ja syödään pullaa
 
 ## Harjoituksen agenda
 
-#### Perusteet
-- Nopea intro gitistä: mikä se on ja mikä on tämä versiohallinta?!
-- Laitetaan kehitysympäristö pystyyn, me pidetään sua kädestä kiiinni
-- Käydään läpi perusteet: `status`, `add`, `commit`, `log` ja `diff`
+#### Basics
+- Quick intro on git: what does version control system mean
+- Set up dev environment
+- Go through basic commands: `status`, `add`, `commit`, `log` and `diff`
 
 #### Ryhmätyöskentely
 - Tutustuaan GitHubiin
