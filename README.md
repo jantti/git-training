@@ -10,10 +10,6 @@ Oletus on että oppilaat eivät juuri ole käyttäneet gittiä mutta haluavat op
   - [Visual Studio Code](https://code.visualstudio.com/)
 1. Jos haluat, tee GitHubin [Try Git](https://try.github.io)-harjoitus.
 
-Mä en tehnyt ennakkotehtäviä, vähän noloo, mut onneks mä oon jo pullannut!
-NYT MÄ TEIN GIT ADD “TIEDOSTONNIMI”, MUTMITEN SE TÄYDENNYS MENI?!?!?
-GIT
-I
 ## Harjoituksen agenda
 
 #### Perusteet
@@ -21,14 +17,11 @@ I
 - Laitetaan kehitysympäristö pystyyn, me pidetään sua kädestä kiiinni
 - Käydään läpi perusteet: `status`, `add`, `commit`, `log` ja `diff`
 
-Onneksi opettelin vähän jotain terminaaliin liittyvää ennen kuin tulin tänne, toi Matu on niin sairaan nopee, et muuten mä oisin ihan kujalla.
 
 #### Ryhmätyöskentely
 - Tutustuaan GitHubiin
 - Jakaudutaan pienryhmiin ja tutustutaan ryhmätyöskentelyn saloihin: `push`, `pull`, `rebase`, `merge` ja `fetch`
 - Tehdään muutama harjoitusten
-
-Apua täällä tulee joku ryhmätyö, vähän kuummottavaa.
 
 #### Visujen tunkkaus
 - Muokataan olemassa olevaa palvelun kottareita
