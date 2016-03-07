@@ -32,6 +32,8 @@ Täällä ollaan ja syödään pullaa
 #### Visujen tunkkaus
 - Muokataan olemassa olevaa palvelun kottareita
 
+Lorem ipsum dolor
+
 ## Lisää lukemista
 
 - [Reaktor Git perusteet "ei koodaajille"](https://extra.reaktor.fi/pages/viewpage.action?pageId=50922108)
